@@ -20,6 +20,9 @@ The materials are written for the most common SOC 2 Type 2 starting point: a Saa
 | [readiness-checklist/](readiness-checklist/) | A 100+ item checklist grouped by Trust Services Criteria | When you want to know *what work is left* before audit fieldwork |
 | [evidence-collection-guide/](evidence-collection-guide/) | A guide to the evidence auditors actually sample, plus three concrete templates | When you are about to enter the observation window and need to start producing artifacts |
 | [cloud-mapping/aws/](cloud-mapping/aws/) | A detailed mapping from SOC 2 Common Criteria to AWS services and configurations | When you need to translate "logical access controls" into specific IAM, SSO, and KMS settings |
+| [cloud-mapping/gcp/](cloud-mapping/gcp/) | A detailed mapping from SOC 2 Common Criteria to Google Cloud services and configurations | When you need to translate SOC 2 controls into Cloud Identity, IAM, Cloud KMS, and Security Command Center settings |
+| [cloud-mapping/azure/](cloud-mapping/azure/) | A detailed mapping from SOC 2 Common Criteria to Microsoft Azure services and configurations | When you need to translate SOC 2 controls into Microsoft Entra ID, Azure RBAC, Key Vault, and Defender for Cloud settings |
+| [cloud-mapping/cloudflare/](cloud-mapping/cloudflare/) | A detailed mapping from SOC 2 Common Criteria to Cloudflare services and configurations | When Cloudflare fronts your edge/network/Zero Trust layer and you need to evidence WAF, Access, and Logpush configurations |
 
 Each subdirectory has its own `README.md` with section-specific guidance. Start there.
 
@@ -27,7 +30,7 @@ Each subdirectory has its own `README.md` with section-specific guidance. Start 
 
 1. **Read the [readiness checklist](readiness-checklist/README.md) first.** It is the fastest way to map your current state against what the audit will examine. You will almost certainly find gaps, and that is the point — the checklist tells you where to start.
 2. **Adapt the policy templates** to your organization. Replace `[Company Name]` and similar placeholder fields, then take a careful read of every section. If a clause does not match how you operate, change it; do not leave it in to look thorough. An auditor who finds a policy claim that contradicts the evidence will flag a control deficiency.
-3. **Implement the cloud configurations** described in [cloud-mapping/aws/](cloud-mapping/aws/). The policy says "MFA is enforced for all production access"; the cloud configuration is how you make that statement true.
+3. **Implement the cloud configurations** for the provider(s) you use — [AWS](cloud-mapping/aws/), [GCP](cloud-mapping/gcp/), [Azure](cloud-mapping/azure/), or [Cloudflare](cloud-mapping/cloudflare/). The policy says "MFA is enforced for all production access"; the cloud configuration is how you make that statement true.
 4. **Use the evidence guide** to set up the cadences (access reviews, vendor reviews, training, scans) that produce the artifacts your auditor will sample. The observation window for a Type 2 report is typically three to twelve months — start before the window opens, not after.
 
 ## Limitations

@@ -14,9 +14,12 @@ This section translates the policy language into provider-specific configuration
 
 ## What's covered
 
-- [**aws/**](aws/) — AWS-to-SOC 2 mapping. A pillar-style reference plus a detailed mapping table covering Common Criteria CC1 through CC9 and the Availability category.
+- [**aws/**](aws/) — AWS-to-SOC 2 mapping. A pillar-style reference plus a detailed mapping table covering Common Criteria CC1 through CC9, Availability, Confidentiality, Processing Integrity, and Privacy.
+- [**gcp/**](gcp/) — Google Cloud-to-SOC 2 mapping. Covers Cloud Identity, IAM, Cloud KMS, Cloud Audit Logs, Security Command Center, VPC Service Controls, and the rest of the GCP service set across all Common Criteria and Additional Categories.
+- [**azure/**](azure/) — Microsoft Azure-to-SOC 2 mapping. Covers Microsoft Entra ID, Conditional Access, PIM, Azure Policy, Microsoft Defender for Cloud, Microsoft Sentinel, Key Vault, and the rest of the Azure service set across all Common Criteria and Additional Categories.
+- [**cloudflare/**](cloudflare/) — Cloudflare-to-SOC 2 mapping. Covers Cloudflare Zero Trust (Access, Gateway, Tunnel), WAF, DDoS Protection, API Shield, Workers, and Logpush. Cloudflare is an edge/network/Zero Trust platform — many SOC 2 criteria are operated in the IdP, application, or primary IaaS rather than in Cloudflare; the table makes this explicit.
 
-Mappings for additional providers (Azure, Google Cloud, Cloudflare) may be added over time. Contributions welcome.
+Mappings for additional providers may be added over time. Contributions welcome.
 
 ## How to use this section
 
