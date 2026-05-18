@@ -133,7 +133,9 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **CC8.1** — Authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet objectives
+- **CC8.1**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 

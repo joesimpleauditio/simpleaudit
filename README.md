@@ -39,6 +39,10 @@ These templates are a starting point, not legal or audit advice. Every audit is 
 
 These materials reflect the AICPA Trust Services Criteria framework. SOC 2 reports are issued by a licensed CPA firm; the resources here do not substitute for that engagement.
 
+## AICPA Attribution
+
+This repository references the SOC 2 Trust Services Criteria framework, owned by the AICPA. Criterion identifiers (CC1.1, CC6.1, etc.) are used for reference purposes. The full TSC document is available from the AICPA. This material is SimpleAudit's interpretation and is not affiliated with, endorsed by, or reviewed by the AICPA.
+
 ## Contributing
 
 Contributions are welcome. Please open an issue describing the proposed change before sending a pull request, especially for policy or checklist content — small wording differences carry real audit implications, and we want to discuss them in the open.

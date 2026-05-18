@@ -112,10 +112,12 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **CC1.1, CC1.4** — Commitment to integrity and ethical values; demonstrating commitment to competence
-- **CC2.2** — Internal communication of information security responsibilities
-- **CC6.2** — User authorization and accountability
-- **CC6.7** — Restriction of transmission of information
+- **CC1.1, CC1.4**
+- **CC2.2**
+- **CC6.2**
+- **CC6.7**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 

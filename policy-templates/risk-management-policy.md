@@ -129,11 +129,13 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **CC3.1** — Specifies suitable objectives
-- **CC3.2** — Identifies risks
-- **CC3.3** — Considers potential for fraud
-- **CC3.4** — Identifies and assesses changes
-- **CC9.1** — Identifies, selects, and develops risk-mitigation activities for business disruption
+- **CC3.1**
+- **CC3.2**
+- **CC3.3**
+- **CC3.4**
+- **CC9.1**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 
