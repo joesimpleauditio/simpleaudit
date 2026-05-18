@@ -131,9 +131,11 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **CC1.4** — Demonstrates commitment to competence (training to support roles)
-- **CC2.2** — Internal communication of information security responsibilities
-- **CC1.5** — Holds individuals accountable for internal control responsibilities
+- **CC1.4**
+- **CC2.2**
+- **CC1.5**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 

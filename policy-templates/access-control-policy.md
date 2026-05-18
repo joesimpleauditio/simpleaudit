@@ -117,11 +117,13 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **CC6.1** — Logical and physical access controls
-- **CC6.2** — Registration and authorization of users
-- **CC6.3** — Management of access through role changes and termination
-- **CC6.6** — Restriction of access from outside the system boundary
-- **CC6.7** — Restriction of transmission, movement, and removal of information
+- **CC6.1**
+- **CC6.2**
+- **CC6.3**
+- **CC6.6**
+- **CC6.7**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 

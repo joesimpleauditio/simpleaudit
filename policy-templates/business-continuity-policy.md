@@ -120,10 +120,12 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **A1.2** — Authorizes, designs, develops or acquires, implements, operates, approves, maintains, and monitors environmental protections, software, data backup processes, and recovery infrastructure to meet its objectives
-- **A1.3** — Tests recovery plan procedures supporting system recovery
-- **CC7.5** — Identifies, develops, and implements activities to recover from identified incidents
-- **CC9.1** — Identifies, selects, and develops risk-mitigation activities for disruptions
+- **A1.2**
+- **A1.3**
+- **CC7.5**
+- **CC9.1**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 

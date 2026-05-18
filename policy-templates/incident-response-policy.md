@@ -148,10 +148,12 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **CC7.2** — Monitors system components for anomalies
-- **CC7.3** — Evaluates security events to determine whether they could result in failures to meet objectives
-- **CC7.4** — Responds to identified security incidents
-- **CC7.5** — Identifies, develops, and implements activities to recover from identified security incidents
+- **CC7.2**
+- **CC7.3**
+- **CC7.4**
+- **CC7.5**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 

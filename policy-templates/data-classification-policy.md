@@ -136,11 +136,13 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **CC6.1, CC6.7** — Logical access controls and restriction of information transmission
-- **CC6.5** — Disposal of information
-- **C1.1** — Information designated as confidential is protected to meet objectives (Confidentiality category)
-- **C1.2** — Confidential information is disposed of in accordance with objectives
-- **P1.1, P3.1, P4.2** (Privacy category) — When sensitive personal data is within scope
+- **CC6.1, CC6.7**
+- **CC6.5**
+- **C1.1**
+- **C1.2**
+- **P1.1, P3.1, P4.2**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 

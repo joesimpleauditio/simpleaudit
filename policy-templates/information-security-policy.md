@@ -101,10 +101,12 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **CC1.1–CC1.5** — Control Environment (commitment to integrity, board oversight, organizational structure, competence, accountability)
-- **CC2.1–CC2.3** — Communication and Information
-- **CC3.1–CC3.4** — Risk Assessment (high-level reference; details in the Risk Management Policy)
-- **CC5.1–CC5.3** — Control Activities (policy framework)
+- **CC1.1–CC1.5**
+- **CC2.1–CC2.3**
+- **CC3.1–CC3.4**
+- **CC5.1–CC5.3**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 

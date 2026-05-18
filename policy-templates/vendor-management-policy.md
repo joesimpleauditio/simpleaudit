@@ -133,9 +133,11 @@ This policy shall be reviewed at least annually by the [Owner Role] and approved
 
 ## Related SOC 2 criteria
 
-- **CC2.3** — Communication with external parties
-- **CC9.2** — Assesses and manages risks associated with vendors and business partners
-- **CC6.1** (indirect) — Access by third parties is governed by the access control program
+- **CC2.3**
+- **CC9.2**
+- **CC6.1**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 

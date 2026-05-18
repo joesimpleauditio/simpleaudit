@@ -119,9 +119,11 @@ This policy and its retention schedule shall be reviewed at least annually by th
 
 ## Related SOC 2 criteria
 
-- **CC6.5** — Identifies, develops, and implements activities to prevent and remediate the loss of information through retention and disposal
-- **C1.2** — Confidential information is disposed of in accordance with objectives
-- **P4.1, P4.2, P4.3** (Privacy) — Retention and disposal of personal information
+- **CC6.5**
+- **C1.2**
+- **P4.1, P4.2, P4.3**
+
+Definitions are available in the AICPA Trust Services Criteria document.
 
 ## Revision history
 
