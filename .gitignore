@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+*.tmp
+.env
+.env.local
